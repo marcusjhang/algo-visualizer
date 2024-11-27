@@ -1,0 +1,3 @@
+/Users/appleface/Desktop/University/Y2-Winter/algo-visualizer/build/CMakeFiles/AlgorithmVisualizer.dir
+/Users/appleface/Desktop/University/Y2-Winter/algo-visualizer/build/CMakeFiles/edit_cache.dir
+/Users/appleface/Desktop/University/Y2-Winter/algo-visualizer/build/CMakeFiles/rebuild_cache.dir
