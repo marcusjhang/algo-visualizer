@@ -21,3 +21,7 @@ make
 •	Press Space to toggle between starting and pausing the sorting process.
 5.	Dynamic Updates:
 •	The selected algorithm and current speed are displayed in the terminal.
+
+## TODO:
+1. implement 'MergeSort', 'InsertionSort'\
+2. render button (currently not working)

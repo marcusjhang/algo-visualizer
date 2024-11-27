@@ -1036,4 +1036,5 @@ CMakeFiles/AlgorithmVisualizer.dir/src/main.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/iostream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/istream \
   /Users/appleface/Desktop/University/Y2-Winter/algo-visualizer/include/bubble_sort.h \
-  /Users/appleface/Desktop/University/Y2-Winter/algo-visualizer/include/quick_sort.h
+  /Users/appleface/Desktop/University/Y2-Winter/algo-visualizer/include/quick_sort.h \
+  /Users/appleface/Desktop/University/Y2-Winter/algo-visualizer/include/button.h
